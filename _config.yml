@@ -1,0 +1,40 @@
+name: 'Shepherd''s Life, LLC'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a00ab342-dc62-4e24-9e03-6611a7ccfc32.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca763b7-7ed9-46ac-810e-645e59c63ce4.jpg
+layout_spectrum: 0.0912632500696886
+typography_spectrum: 0.6098891932858477
+opengraph:
+  type: ''
+  appId: '173538179336025'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0bdeedb-9c69-4e1e-8c62-b2196689c6fb.jpg
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.5733479630633798
+  lightness: 0.8434476096778896
+  saturation: 0.8837146725517991
+  rhythmicContrast: 0.7541449829558886
+purpose:
+  - type: contact
+    label: Email us
+    url: 'mailto:shepherdslifellc@yahoo.com'
+  - type: contact
+    label: Contact Us
+    url: 'tel:2516560717'
+title: Shepherd's Life
+description: Bookkeeping and Taxes
+author:
+  name: shepherd's Life
+  url: shepherdslifellc.com
+  email: shepherdslifellc@yahoo.com
+content_rating:
+  adult: false
+content: []
+github: true
